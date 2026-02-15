@@ -11,13 +11,18 @@ export const BIRTHDAY_NAME = "My Love"; // Replace with their name
 // TAB 1: POEM
 export const POEM_TITLE = "For You";
 export const POEM_CONTENT = `
+Holding you hand in my hand,
+feels more than the stars and sand.
+With you by my side, there is no bound,
+I feel in my ear, a peacful sound
+
 In your eyes, I found my home,
 A place where I am never alone.
 Your smile is the sun that lights my day,
-Chasing all my clouds away.
+Chasing my black clouds away.
 
-With every beat my heart does make,
-I love you more, for heaven's sake.
+With each heartbeat,
+I love you more more and more on repeat.
 On this day, I celebrate you,
 My love, my life, my dream come true.
 `; // Use newlines for stanzas
