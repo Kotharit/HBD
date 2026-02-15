@@ -30,42 +30,42 @@ My love, my life, my dream come true.
 export const PHOTOS = [
   {
     id: 1,
-    src: "./photo1.jpg", // Replace with "./photo1.jpg"
+    src: "/photo1.jpg", // Replace with "./photo1.jpg"
     caption: "The day I fell in Love❤️"
   },
   {
     id: 2,
-    src: "./photo2.jpg", // Replace with "./photo2.jpg"
+    src: "/photo2.jpg", // Replace with "./photo2.jpg"
     caption: "First Dinner"
   },
   {
     id: 3,
-    src: "./photo3.jpg", // Replace with "./photo3.jpg"
+    src: "/photo3.jpg", // Replace with "./photo3.jpg"
     caption: "Best Moment - Sleeping on my Shoulder"
   },
   {
     id: 4,
-    src: "./photo4.jpg", // Replace with "./photo4.jpg"
+    src: "/photo4.jpg", // Replace with "./photo4.jpg"
     caption: "Surat - A rose beside me"
   },
   {
     id: 5,
-    src: "./photo5.jpg", // Replace with "./photo5.jpg"
+    src: "/photo5.jpg", // Replace with "./photo5.jpg"
     caption: "Our staple - Irani Cafe"
   },
   {
     id: 6,
-    src: "./photo6.jpg", // Replace with "./photo6.jpg"
+    src: "/photo6.jpg", // Replace with "./photo6.jpg"
     caption: "The day I Proposed"
   },
   {
     id: 7,
-    src: "./photo7.jpg", // Replace with "./photo7.jpg"
+    src: "/photo7.jpg", // Replace with "./photo7.jpg"
     caption: "First Adventure"
   },
   {
     id: 8,
-    src: "./photo8.jpg", // Replace with "./photo8.jpg"
+    src: "/photo8.jpg", // Replace with "./photo8.jpg"
     caption: "Forever and always - Engagement"
   },
 ];
@@ -85,13 +85,13 @@ export const LOVE_REASONS = [
 // VIDEO SOURCE
 // Instructions: Place a video file (mp4) in this folder and use "./myvideo.mp4"
 // or use a direct link.
-export const VIDEO_SRC = "./myvideo.mp4"; 
+export const VIDEO_SRC = "/myvideo.mp4"; 
 
 // MUSIC SOURCE
 // Instructions:
 // 1. Place an mp3 file in this folder (e.g. "song.mp3") and change this to "./song.mp3"
 // 2. OR use a direct URL to an audio file.
-export const MUSIC_SRC = "my-song.mp3"; 
+export const MUSIC_SRC = "/my-song.mp3"; 
 
 // VISUAL ASSETS
 export const BACKGROUND_MUSIC_VOLUME = 0.5;
