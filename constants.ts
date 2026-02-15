@@ -11,7 +11,7 @@ export const BIRTHDAY_NAME = "My Love"; // Replace with their name
 // TAB 1: POEM
 export const POEM_TITLE = "For You";
 export const POEM_CONTENT = `
-Holding you hand in my hand,
+Holding your hand in my hand,
 feels more than the stars and sand.
 With you by my side, there is no bound,
 I feel in my ear, a peacful sound
